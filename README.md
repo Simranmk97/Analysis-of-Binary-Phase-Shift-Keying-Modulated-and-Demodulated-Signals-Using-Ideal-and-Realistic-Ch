@@ -101,7 +101,8 @@ Figure 4
 Figure 5
 
 
-CONCLUSIONS
+##CONCLUSIONS
+
 To conclude, the laboratory goals were met as the results depict successful demonstration of the BPSK modulation and demodulation process on signals with realistic and non-realistic channel and receiver conditions. The methodology was very capable of demonstrating the true picture of the experiments. However, for more demonstration purposes, it could be improved by looking at other realistic factors that can interfere with the estimated signals quality. This experiment allows us to deeply understand how signals can be better processed at the receiving end at engineering settings for example in brain research to decode neural signals in the brain. This experiment can be seen as a stepping stone to understand how undesirable interference can impact the quality of estimated signals and how a receiver can be improved to achieve signals as close to the original signals.
 
 REFERENCES
