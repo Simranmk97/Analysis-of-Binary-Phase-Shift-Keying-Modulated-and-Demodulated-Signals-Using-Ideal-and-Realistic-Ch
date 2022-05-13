@@ -27,13 +27,13 @@ Figure 1 illustrates the continuous-time signal tilde_b on top and its frequency
 
 
 <img width="397" alt="image" src="https://user-images.githubusercontent.com/105514187/168344200-bdd085e1-a55f-439e-9b79-03ffdbcf7a48.png">
-
+Figure 1
 
 
 
 
 <img width="397" alt="image" src="https://user-images.githubusercontent.com/105514187/168344265-b54c7f94-2986-4465-8c95-2f21ee330aeb.png">
-
+Figure 2
 
 
 
@@ -63,7 +63,7 @@ The next plot below show the differences between tilde_b and b_hat with channel 
 
 
 <img width="382" alt="image" src="https://user-images.githubusercontent.com/105514187/168344321-cd0dc5eb-1417-4777-945c-a53c231f2962.png">
-
+Figure 3
 
 
 
@@ -86,8 +86,9 @@ The next plot below show the differences between tilde_b and b_hat with channel 
 The next two plots below show the differences between tilde_b and b_hat with carrier frequency (CF) and phase variation. Inspecting the both of the plots in Figure 4 and Figure 5, it can be said that there is no significant difference between the two signals when CF and phase was not varied. But there was significant difference between them as the CF variation was increased, and differently when phase values was increased. This difference is also shown in terms of Bit Error Rate (BER) in the two plots. In Figure 4, it is clear that as CF was increased, the BER values ranged near ~0.5, indicating that maximum uncertainty or entropy value was reached at this region. This can be further interpreted that the Bit error difference between the estimated signals and the original signal increased as CF at the demodulator system increased, since it couldn’t perfectly match up with the carrier signal’s frequency. In Figure 5, it can be shown that the BER value was zero when the phase value was below ~1.5 radians. Interestingly, the BER value jumps from zero to 1 beyond ~1.5 radians. This can be interpreted as the estimated signals produced using those phase values above ~1.5 have opposite signs as the original signal. Therefore, the BER values indicate maximum uncertainty or entropy at phase values above ~1.5 radians.
 
 <img width="363" alt="image" src="https://user-images.githubusercontent.com/105514187/168344385-81be7a7b-b427-403f-8629-fe12ddeb6c67.png">
+Figure 4
 <img width="377" alt="image" src="https://user-images.githubusercontent.com/105514187/168344404-63917a24-3d71-4d33-b391-cc814cbac230.png">
-
+Figure 5
 
 
 CONCLUSIONS
