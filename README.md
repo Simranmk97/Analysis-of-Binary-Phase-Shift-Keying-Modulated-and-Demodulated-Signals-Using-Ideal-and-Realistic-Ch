@@ -1,5 +1,3 @@
-# Analysis-of-Binary-Phase-Shift-Keying-Modulated-and-Demodulated-Signals-Using-Ideal-and-Realistic-Ch
-## Analysis of Binary Phase Shift Keying Modulated and Demodulated Signals Using Ideal and Realistic Channel and Receiver Conditions
 # Analysis of Binary Phase Shift Keying Modulated and Demodulated Signals Using Ideal and Realistic Channel and Receiver Conditions
 Abstract. This laboratory demonstrates the BPSK modulation and demodulation process on arbitrary signals using MATLAB. A series of experiments demonstrate the effects of realistic and ideal channel and receiver conditions may have on the quality of the estimated signals.
 INTRODUCTION AND MOTIVATION
