@@ -1,5 +1,5 @@
-%% Simran Karim | ECE 3500 | Lab 5 
-%% Part 2:Simulate a BPSK system in MATLAB and apply DPSK on it
+%% Simran Karim 
+%% Simulate a BPSK system in MATLAB and apply DPSK on it
 clear all, clc
 % Generate a bit sequence/message
 
@@ -68,7 +68,7 @@ end
 
 ascii = bin2ascii(est)
 
-%% Part 3: Study your design  in realistic conditions
+%% Study your design  in realistic conditions
 clear all, clc
 % Channel Noise
 
