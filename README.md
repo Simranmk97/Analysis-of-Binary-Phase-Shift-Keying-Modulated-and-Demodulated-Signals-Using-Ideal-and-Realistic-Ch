@@ -107,4 +107,3 @@ REFERENCES
 1.	Retrieved from https://en.wikipedia.org/wiki/Modulation
 2.	Retrieved from https://padakuu.com/need-of-modulation-and-demodulation-33-article#:~:text=Need%20of%20demodulation&text=The%20diaphragm%20of%20a%20telephone,from%20radio%2D%20frequency%20carrier%20waves.
 
-![image](https://user-images.githubusercontent.com/105514187/168343903-6b03a64a-d5eb-419c-849c-2f93be05b8af.png)
